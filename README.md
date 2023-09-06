@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wzzzzwwzw" alt="wzzzzwwzw" /></a> </p>
 
-- 🌱 I’m currently learning **Devops**
+- 🌱 I’m currently learning **React JS**
 
 - 📫 How to reach me **waelwzwz@gmail.com**
 
