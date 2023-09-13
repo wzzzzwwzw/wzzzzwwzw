@@ -7,15 +7,18 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wzzzzwwzw" alt="wzzzzwwzw" /></a> </p>
 
-- 🌱 I’m currently working on  **e-commerce Website for calzadosguillenycotxu**  
+- 🌱 I’m currently working on  **e-commerce Website for calzadosguillenycotxu**
+  
 - 🌱 I’m currently learning **React JS**
 
-- 📫 How to reach me **waelwzwz@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/wael-louati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wael-louati" height="30" width="40" /></a>
 <a href="https://discord.gg/wz#5443" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="wz#5443" height="30" width="40" /></a>
+<a href="mailto:waelwzwz@gmail.com"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
