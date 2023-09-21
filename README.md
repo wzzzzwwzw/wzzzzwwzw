@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at (https://wael-louati-portfolio-47d4828f6043.herokuapp.com/)
+- 👨‍💻 All of my projects are available at [(https://wael-louati-portfolio-47d4828f6043.herokuapp.com/)](https://wael-louati-portfolio-47d4828f6043.herokuapp.com/)
 
 - 📫 How to reach me **waelwzwz@gmail.com**
 
