@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on e-commerce Website for **Calzados Guillén & Cotxu**
 
-- 🌱 I’m currently learning **React,Next.js**
+- 🌱 I’m currently learning **React, Next.js**
   
 - 👨‍💻 Check my portfolio **https://wael-louati-portfolio-47d4828f6043.herokuapp.com**
 
